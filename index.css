@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/43/24/4JY2Ct.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    left: 0;
+    margin-top: 100px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+h2 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+p {
+    text-align: center;
+    color: antiquewhite;
+    
+}
+
+.width {
+     width: 75%;
+    margin: 0 auto;
+}
